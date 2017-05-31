@@ -1,0 +1,2 @@
+# hardcode
+started learning coding 
